@@ -10,7 +10,7 @@ Here is the basic structure with stub or empty files in place.
 ├── css
 │   └── site.css
 ├── img
-│   └── cute-grey-kitten.jpg
+│   └── c:\Users\susan\Downloads\sticker-notebook.jpg
 ├── js
 │   └── site.js
 ├── lab1
